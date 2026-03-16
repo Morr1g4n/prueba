@@ -3,7 +3,7 @@
 git clone {url}
 clona un repositorio de forma local
 
-git --config user.name "Usuario
+git --config user.name "Usuario"
 git --config user.email "mail"
 sirven para establecer la cuenta
 
