@@ -2,7 +2,6 @@
 ## Nombre: Ricardo Beltrán
 git clone {url}
 clona un repositorio de forma local
-a
 git config --global user.name "Usuario"
 git config --global user.email "mail"
 sirven para establecer la cuenta
