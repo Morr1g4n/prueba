@@ -27,4 +27,6 @@ git push origin main
 Terminologia:
 Staging: Es una especie de sala de espera para los cambios realizados a nivel local, donde estos cambios esperan a confirmarse mediante un commit
 
+prueba pull
+
 Se debe usar git add para añadir archivos o cambios
