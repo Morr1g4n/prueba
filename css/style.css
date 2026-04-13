@@ -36,4 +36,24 @@ nav a{
     font-size: 18px;
 }
 
+#s1{
+    margin-top: 50px;
+    background-image: url("../images/Kakapo.jpg"),url("../images/Sirocco.jpg"),url("../images/Kakapo.jpg"),url("../images/Sirocco.jpg");
+    background-position: top left, top right, bottom right, bottom left;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    padding: 75px;
+    box-shadow: 3px 3px 10px darkslateblue, -3px -3px 10px darkslateblue;
+}
+
+.p1{
+    text-shadow: 3px 3px 10px darkslateblue;
+    font-size: 20px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+.ul{
+    border-left: 3px orange solid;
+}
 
